@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/FB_IMG_1496670634998_copy_300x300.jpg" group-title="",AMIT IP TV
+https://www.dropbox.com/s/t77fwkvluzfrufg/Promo.mp4?raw=1
 #EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [09.11.2020]  Time [10:29am]",
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01675900996
 http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="",Ityadi
 https://drive.google.com/uc?export=download&id=1sM1ZWvY-wmO9v-nGj1HfiOx6O1K1UzzF
@@ -965,7 +967,7 @@ http://bit.ly/btvbkaty
 
 
 #EXTINF:-1 tvg-logo="" group-title="Total User = [199]",
-#EXTINF:-1 tvg-logo="" group-title=" Website : https://bit.ly/01826655778 ",
+#EXTINF:-1 tvg-logo="" group-title="fb link : https://fb.com/amit.gub ",
 
 
 
