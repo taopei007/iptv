@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/FB_IMG_1496670634998_copy_300x300.jpg" group-title="AMIT IP TV",AMIT 
 https://www.dropbox.com/s/7ug3zy8vsmu6f2l/ProShow%20Slideshow%201.mp4?raw=1
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [09.11.2020]  Time [5:34 am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.11.2020]  Time [5:34 am]",
 
 
 
@@ -411,6 +411,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/download-removebg-preview-1.png" group-title="Music",396.Mastii
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_mastiiPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://s8.gifyu.com/images/Zing_2011_logo-removebg-preview.png",397.Zing
+https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1605239220~exp=1605242220~acl=/*~hmac=4045dfc907e7c0bd10bca7e353fb024066d8e5498863116bb14f5cb760489f9d
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Indian",134.Colors Cineplex HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",134.Colors
